@@ -11,6 +11,6 @@ Some basic stuff:
 <li>Two way binding</li>
 <li>Using hook of state (updatating and creating state)</li>
 <li>Forms</li>
-<li>Rendering conditionla contents and styles</li>
+<li>Rendering conditionl contents and styles</li>
 
 </ul>
