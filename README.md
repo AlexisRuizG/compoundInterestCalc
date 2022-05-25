@@ -1,5 +1,6 @@
 # Compound interest graphic calculator
 
+The GH-pages is from my other account *CHECK THIS LINK for the app*: [Live prpject] (https://alfaruga.github.io/compoundInterestCalc/)*
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Practice project 
